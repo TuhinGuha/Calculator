@@ -29,7 +29,6 @@
 <li>Enter the first number in the designated field.
 <li>Enter the second number in the designated field.
 <li>Select the desired operation (+, -, *, /) by tapping on the corresponding button.
-<li>Tap the "Calculate" button to perform the calculation.
 <li>The result of the calculation will be displayed on the screen.
 </ol>
 
